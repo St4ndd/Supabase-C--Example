@@ -1,0 +1,21 @@
+C:\Users\johan\source\repos\Supabase Example\Supabase Example\bin\Debug\net8.0-windows\Supabase Example.exe
+C:\Users\johan\source\repos\Supabase Example\Supabase Example\bin\Debug\net8.0-windows\Supabase Example.deps.json
+C:\Users\johan\source\repos\Supabase Example\Supabase Example\bin\Debug\net8.0-windows\Supabase Example.runtimeconfig.json
+C:\Users\johan\source\repos\Supabase Example\Supabase Example\bin\Debug\net8.0-windows\Supabase Example.dll
+C:\Users\johan\source\repos\Supabase Example\Supabase Example\bin\Debug\net8.0-windows\Supabase Example.pdb
+C:\Users\johan\source\repos\Supabase Example\Supabase Example\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\johan\source\repos\Supabase Example\Supabase Example\obj\Debug\net8.0-windows\Supabase Example.csproj.AssemblyReference.cache
+C:\Users\johan\source\repos\Supabase Example\Supabase Example\obj\Debug\net8.0-windows\Supabase Example.csproj.GenerateResource.cache
+C:\Users\johan\source\repos\Supabase Example\Supabase Example\obj\Debug\net8.0-windows\Supabase Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\source\repos\Supabase Example\Supabase Example\obj\Debug\net8.0-windows\Supabase Example.AssemblyInfoInputs.cache
+C:\Users\johan\source\repos\Supabase Example\Supabase Example\obj\Debug\net8.0-windows\Supabase Example.AssemblyInfo.cs
+C:\Users\johan\source\repos\Supabase Example\Supabase Example\obj\Debug\net8.0-windows\Supabase Example.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\Supabase Example\Supabase Example\obj\Debug\net8.0-windows\Supabase.0FE2AF8C.Up2Date
+C:\Users\johan\source\repos\Supabase Example\Supabase Example\obj\Debug\net8.0-windows\Supabase Example.dll
+C:\Users\johan\source\repos\Supabase Example\Supabase Example\obj\Debug\net8.0-windows\refint\Supabase Example.dll
+C:\Users\johan\source\repos\Supabase Example\Supabase Example\obj\Debug\net8.0-windows\Supabase Example.pdb
+C:\Users\johan\source\repos\Supabase Example\Supabase Example\obj\Debug\net8.0-windows\Supabase Example.genruntimeconfig.cache
+C:\Users\johan\source\repos\Supabase Example\Supabase Example\obj\Debug\net8.0-windows\ref\Supabase Example.dll
+C:\Users\johan\source\repos\Supabase Example\Supabase Example\obj\Debug\net8.0-windows\Supabase Example.csproj.Fody.CopyLocal.cache
+C:\Users\johan\source\repos\Supabase Example\Supabase Example\obj\Debug\net8.0-windows\Supabase Example.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\johan\source\repos\Supabase Example\Supabase Example\obj\Debug\net8.0-windows\Supabase_Example.Supabase.resources
